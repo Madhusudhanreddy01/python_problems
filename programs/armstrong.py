@@ -9,5 +9,5 @@ def arm_(no):
     else:
         return "Not an Armstrong Number"
 
-# no=input("Enter:")
-# print(arm_(no))
+no=input("Enter:")
+print(arm_(no))
